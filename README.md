@@ -1,7 +1,7 @@
 # Hidden Dev Terms
-> Termini informatici che descrivono fenomeni quotidiani che pochi conoscono
+> Termini informatici poco conosciuti che descrivono fenomeni di pratica "programmesca" quotidiana
 
-Questa repository raccoglie termini tecnici e slang informatico che descrivono fenomeni comuni nello sviluppo software, ma che spesso non hanno un nome conosciuto. Quando questi fenomeni accadono, li descriviamo con termini inventati o coloriti, senza sapere che esiste già un termine preciso.
+Questa repository raccoglie termini tecnici e slang informatico che descrivono fenomeni comuni nella pratica quotidiana dello sviluppo, ma che spesso non hanno un nome conosciuto. Quando questi fenomeni accadono, li descriviamo con termini inventati o coloriti, senza sapere che esiste già un termine preciso.
 
 ---
 
